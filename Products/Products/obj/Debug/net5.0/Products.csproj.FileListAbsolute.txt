@@ -1,0 +1,16 @@
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.csproj.AssemblyReference.cache
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.AssemblyInfoInputs.cache
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.AssemblyInfo.cs
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.exe
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.deps.json
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.runtimeconfig.json
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.runtimeconfig.dev.json
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.dll
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\ref\Products.dll
+D:\Projetos\C#\Products\Products\Products\bin\Debug\net5.0\Products.pdb
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.dll
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\ref\Products.dll
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.pdb
+D:\Projetos\C#\Products\Products\Products\obj\Debug\net5.0\Products.genruntimeconfig.cache
